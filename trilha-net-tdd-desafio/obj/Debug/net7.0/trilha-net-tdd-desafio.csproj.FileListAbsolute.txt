@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\bin\Debug\net7.0\trilha-net-tdd-desafio.exe
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\bin\Debug\net7.0\trilha-net-tdd-desafio.deps.json
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\bin\Debug\net7.0\trilha-net-tdd-desafio.runtimeconfig.json
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\bin\Debug\net7.0\trilha-net-tdd-desafio.dll
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\bin\Debug\net7.0\trilha-net-tdd-desafio.pdb
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.dll
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\refint\trilha-net-tdd-desafio.dll
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.pdb
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\trilha-net-tdd-desafio.genruntimeconfig.cache
+C:\Users\HP\Documents\Git\08 - trilha-net-tdd-desafio\trilha-net-tdd-desafio\trilha-net-tdd-desafio\obj\Debug\net7.0\ref\trilha-net-tdd-desafio.dll

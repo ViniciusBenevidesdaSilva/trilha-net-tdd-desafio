@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilha-net-tdd-desafio", "trilha-net-tdd-desafio\trilha-net-tdd-desafio.csproj", "{DB1F2549-8012-476C-9D93-DE487BE3FAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilha-net-tdd-desafio-teste", "trilha-net-tdd-desafio-teste\trilha-net-tdd-desafio-teste.csproj", "{1E12614B-2821-453D-9D1D-ABAD4B5653FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1F2549-8012-476C-9D93-DE487BE3FAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F2549-8012-476C-9D93-DE487BE3FAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F2549-8012-476C-9D93-DE487BE3FAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F2549-8012-476C-9D93-DE487BE3FAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E12614B-2821-453D-9D1D-ABAD4B5653FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E12614B-2821-453D-9D1D-ABAD4B5653FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E12614B-2821-453D-9D1D-ABAD4B5653FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E12614B-2821-453D-9D1D-ABAD4B5653FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C310092-83CB-49B7-8A82-F4E8DE33961A}
+	EndGlobalSection
+EndGlobal
